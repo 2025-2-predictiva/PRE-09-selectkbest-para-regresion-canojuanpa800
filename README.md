@@ -16,6 +16,7 @@ Ejecute los siguientes comandos en el terminal:
 python -m venv .venv
 .venv\Scripts\activate
 setup
+
 ```
 
 # Ejecución de pruebas
